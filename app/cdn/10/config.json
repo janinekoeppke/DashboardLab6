@@ -9311,7 +9311,7 @@
       "version": "1.17.0",
       "label": "Text 9",
       "config": {
-        "text": "<p><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">Institut for digital and autonomous construction: SARS-CoV-2</strong><span style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\"> </span><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">Dashboard - Node-RED</strong></p>",
+        "text": "<p><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">IDAC: SARS-CoV-2</strong><span style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\"> </span><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">Dashboard - Node-RED</strong></p>",
         "style": {
           "wrap": true
         }
@@ -16385,7 +16385,7 @@
       "version": "1.17.0",
       "label": "Text 57",
       "config": {
-        "text": "<p><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">Institut for digital and autonomous construction: SARS-CoV-2</strong><span style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\"> </span><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">Dashboard - Survey123</strong></p>",
+        "text": "<p><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">IDAC: SARS-CoV-2</strong><span style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\"> </span><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">Dashboard - Survey123</strong></p>",
         "style": {
           "wrap": true
         }
@@ -24540,7 +24540,7 @@
       "version": "1.17.0",
       "label": "Text 82",
       "config": {
-        "text": "<p><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">Institut for digital and autonomous construction: SARS-CoV-2</strong><span style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\"> </span><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">Dashboard - Revit Model</strong></p>",
+        "text": "<p><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">IDAC: SARS-CoV-2</strong><span style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\"> </span><strong style=\"font-family: &quot;Avenir Next&quot;; font-size: 34px; color: rgb(255, 255, 255);\">Dashboard - Revit Model</strong></p>",
         "style": {
           "wrap": true
         }
